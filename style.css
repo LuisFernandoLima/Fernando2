@@ -1,0 +1,47 @@
+header{
+	font-size: 50px;
+	color:red;
+	text-align: center;
+    font-family: Copperplate Gothic Bold;
+	}
+    #{
+    	font-size: 15px;
+    	color: blue;
+    	text-align: center;
+    	font-family: Bradley Hand ITC;
+
+
+
+    }
+body{
+	background-image: url("Tikal.jpg");
+	object-fit: cover;
+}
+#Nando{
+	color:gray;
+	text-decoration: none;
+	font-size: 30px;
+	font-family: Colonna MT ;
+	
+}
+
+#Maya{
+	color:gray;
+	text-decoration: none;
+	font-size: 30px;
+	font-family:  Colonna MT;
+	
+}
+footer{
+	color: blue;
+	text-align: center;
+	font-size: 38px;
+	margin-top: 38px;
+	font-family: Colonna MT;
+
+
+
+}
+
+
+    }
